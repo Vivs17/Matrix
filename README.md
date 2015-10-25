@@ -1,6 +1,7 @@
 # Matrix
 import java.util.Scanner;
 
+
 class Matrix {
 	final int SIZE = 4;
 	private int [] [] squares = new int [SIZE] [SIZE];
